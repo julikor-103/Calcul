@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54351022-befc-4ff9-a44a-d808a07c9415" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTwCycXLkK1TUYvEkuPZscRcpZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Hillel" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.Hillel.Main" />
+      <module name="Calcul" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54351022-befc-4ff9-a44a-d808a07c9415" name="Default Changelist" comment="" />
+      <created>1584876267287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584876267287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom" timestamp="1584886990228">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1584885405582" />
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584886990228" />
+    <state width="1398" height="256" key="GridCell.Tab.0.center" timestamp="1584886990227">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1584885405581" />
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1584886990227" />
+    <state width="1398" height="256" key="GridCell.Tab.0.left" timestamp="1584886990227">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1584885405581" />
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1584886990227" />
+    <state width="1398" height="256" key="GridCell.Tab.0.right" timestamp="1584886990228">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1584885405582" />
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1584886990228" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom" timestamp="1584886990230">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1584885405583" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584886990230" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center" timestamp="1584886990229">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1584885405583" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1584886990229" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left" timestamp="1584886990229">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1584885405582" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1584886990229" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right" timestamp="1584886990229">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1584885405583" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1584886990229" />
+  </component>
+</project>
